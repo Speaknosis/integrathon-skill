@@ -33,3 +33,7 @@ Después pídele a Claude cosas como "ayúdame a preparar el pitch para la Integ
 ## Licencia
 
 [MIT](LICENSE). Úsalo y adáptalo para tu propio evento.
+
+## Aviso legal
+
+El contenido de este repo, incluida la plantilla de NDA, es solo referencial y no constituye asesoría legal. Se entrega tal cual, sin garantías. Speaknosis no se hace responsable por su uso: cada startup debe revisarlo con su propio abogado antes de firmar cualquier acuerdo.
