@@ -4,6 +4,13 @@ La **Integrathon** es un evento de startups de salud en el marco de la Chile Tec
 
 Este repo es un skill de Claude con el kit para las startups que participan.
 
+## Startups inscritas
+
+- **Directorio de startups inscritas y aprobadas:** [abrir en el navegador](https://docs.google.com/spreadsheets/d/10Gnf3Vt1tMLQ-0raOMtWFwItFTZDDwK-Y5XHMFjPCo0/edit?usp=sharing) · [CSV](https://docs.google.com/spreadsheets/d/10Gnf3Vt1tMLQ-0raOMtWFwItFTZDDwK-Y5XHMFjPCo0/export?format=csv&gid=0)
+- **Inscribe tu startup:** [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSc14E44nPX4RdupclVU_0ppyNx42DU5UnlTSEMzeBS5nsIrwQ/viewform)
+
+El directorio se actualiza solo. Cada ficha aparece después de una revisión manual de la organización. La revisión no decide quién participa: sirve para que ningún dato de contacto quede público y para evitar contenido malicioso. El directorio no trae datos de contacto: el contacto entre startups lo coordina la organización (integrathon2026@speaknosis.com).
+
 ## Qué trae
 
 | Archivo | Para qué sirve |
@@ -17,9 +24,7 @@ Este repo es un skill de Claude con el kit para las startups que participan.
 | `references/objetivo-del-dia.md` | Qué cuenta como "integración hecha" |
 | `templates/nda-bilateral.md` | Plantilla de NDA bilateral entre las dos startups |
 
-El skill también lee el directorio público de startups inscritas, para responder quiénes participan y con quién conviene integrarse. Ese directorio no trae datos de contacto: el contacto entre startups lo coordina la organización.
-
-Para inscribir tu startup, usa el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSc14E44nPX4RdupclVU_0ppyNx42DU5UnlTSEMzeBS5nsIrwQ/viewform). Tu ficha aparece en el directorio después de una revisión manual de la organización. La revisión no decide quién participa: sirve para que ningún dato de contacto quede público y para evitar contenido malicioso.
+Con el skill instalado, Claude también lee el directorio de startups inscritas para responder quiénes participan y con quién conviene integrarse.
 
 El NDA es una plantilla: cada startup debe revisarlo con su abogado antes de firmarlo.
 
