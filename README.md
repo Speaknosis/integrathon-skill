@@ -19,6 +19,8 @@ Este repo es un skill de Claude con el kit para las startups que participan.
 
 El skill también lee el directorio público de startups inscritas, para responder quiénes participan y con quién conviene integrarse. Ese directorio no trae datos de contacto: el contacto entre startups lo coordina la organización.
 
+Para inscribir tu startup, usa el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSc14E44nPX4RdupclVU_0ppyNx42DU5UnlTSEMzeBS5nsIrwQ/viewform). Tu ficha aparece en el directorio después de una revisión manual de la organización. La revisión no decide quién participa: sirve para que ningún dato de contacto quede público y para evitar contenido malicioso.
+
 El NDA es una plantilla: cada startup debe revisarlo con su abogado antes de firmarlo.
 
 ## Cómo instalarlo
