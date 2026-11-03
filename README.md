@@ -17,6 +17,8 @@ Este repo es un skill de Claude con el kit para las startups que participan.
 | `references/objetivo-del-dia.md` | Qué cuenta como "integración hecha" |
 | `templates/nda-bilateral.md` | Plantilla de NDA bilateral entre las dos startups |
 
+El skill también lee el directorio público de startups inscritas, para responder quiénes participan y con quién conviene integrarse. Ese directorio no trae datos de contacto: el contacto entre startups lo coordina la organización.
+
 El NDA es una plantilla: cada startup debe revisarlo con su abogado antes de firmarlo.
 
 ## Cómo instalarlo

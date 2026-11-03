@@ -24,6 +24,7 @@ Reglas:
 - **Máximo 40 palabras en la slide.** La slide acompaña, no se lee: el resto lo dice la persona que presenta.
 - **Letra grande.** El texto más chico debe leerse desde el fondo de la sala, así que no uses menos de unos 24 px en una pantalla de 1920 × 1080.
 - **Contraste alto y colores de la marca.** Si la startup tiene colores o tipografía propios, ponlos en las variables de `:root`. Si no, deja los de la plantilla.
+- **Sin datos de contacto.** Ni correos, ni teléfonos, ni links, ni redes sociales, ni nombres de personas: la slide se proyecta y circula. El contacto entre startups lo coordina la organización.
 - **Los cinco bloques del pitch.** Quiénes somos, para quién, qué exponemos, qué datos entran y salen, y con quién queremos integrarnos. Solo palabras clave, no frases completas.
 - **Exportable a PDF.** La plantilla trae estilos de impresión: en el navegador, Imprimir → Guardar como PDF, en horizontal. Lleva el PDF de respaldo por si el HTML no abre en el computador del evento.
 
@@ -124,7 +125,7 @@ Antes de entregarla, ábrela en el navegador y revisa que nada se corte ni se sa
 
     <footer>
       <p class="busco">Buscamos integrarnos con <strong>[tipo de solución]</strong></p>
-      <p>[contacto] · Integrathon 2026</p>
+      <p>Integrathon 2026</p>
     </footer>
   </main>
 </body>
