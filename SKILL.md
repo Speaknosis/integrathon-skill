@@ -1,6 +1,6 @@
 ---
 name: integrathon
-description: Kit para startups de salud que participan en una Integrathon (evento donde dos startups dejan funcionando una integración técnica en un día). Úsalo para preparar la presentación, el checklist previo, la documentación de la API o MCP, el ambiente sandbox, el objetivo del día o el NDA bilateral.
+description: Kit para startups de salud que participan en una Integrathon (evento donde dos startups dejan funcionando una integración técnica en un día). Úsalo para preparar la presentación y su slide en HTML, el checklist previo, la documentación de la API o MCP, el ambiente sandbox, el objetivo del día o el NDA bilateral.
 ---
 
 # Integrathon · Kit para startups
@@ -14,6 +14,7 @@ Las parejas de integración se arman antes del evento. El día se trabaja en par
 | Necesitas | Lee |
 |---|---|
 | Preparar el pitch de 1 minuto | `references/presentacion-startup.md` |
+| Ensayar el pitch o armar su slide en HTML | `references/pitch-1-minuto.md` |
 | Saber qué tener listo antes del evento | `references/que-tener-preparado.md` |
 | Escribir o revisar la documentación de tu integración | `references/documentacion-integracion.md` |
 | Montar el ambiente sandbox | `references/ambiente-sandbox.md` |

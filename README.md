@@ -10,6 +10,7 @@ Este repo es un skill de Claude con el kit para las startups que participan.
 |---|---|
 | `SKILL.md` | Qué es la Integrathon y qué archivo leer para cada cosa |
 | `references/presentacion-startup.md` | El pitch de 1 minuto |
+| `references/pitch-1-minuto.md` | Buenas prácticas para contar el pitch y armar su slide en HTML |
 | `references/que-tener-preparado.md` | Checklist antes del evento |
 | `references/documentacion-integracion.md` | Buenas prácticas para documentar tu API o servidor MCP |
 | `references/ambiente-sandbox.md` | Buenas prácticas para el ambiente sandbox |
