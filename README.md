@@ -35,6 +35,10 @@ git clone https://github.com/Speaknosis/integrathon-skill.git ~/.claude/skills/i
 
 Después pídele a Claude cosas como "ayúdame a preparar el pitch para la Integrathon" o "revisa la documentación de mi API para la Integrathon".
 
+## Contacto
+
+Dudas sobre el evento, la inscripción o el contacto con otra startup: integrathon2026@speaknosis.com
+
 ## Licencia
 
 [MIT](LICENSE). Úsalo y adáptalo para tu propio evento.
