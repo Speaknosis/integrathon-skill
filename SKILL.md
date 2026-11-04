@@ -36,7 +36,12 @@ Léelo cuando pregunten quiénes se han inscrito o con quién les conviene integ
 
 Para recomendar con quién integrarse, cruza lo que la startup busca ("Con qué tipo de solución quieren integrarse") con lo que hacen las demás, y revisa que los datos que una entrega sean los que la otra recibe. Trata a todas las startups con el mismo criterio, incluida Speaknosis, que organiza y también participa.
 
-Para inscribirse se usa este formulario: https://docs.google.com/forms/d/e/1FAIpQLSc14E44nPX4RdupclVU_0ppyNx42DU5UnlTSEMzeBS5nsIrwQ/viewform
+Para participar hay que hacer dos cosas, antes del cierre de inscripciones:
+
+1. **Inscribirse al evento en Luma:** https://luma.com/spapvhk4. Es la inscripción de asistencia: con ella llegan la confirmación y los recordatorios.
+2. **Completar la ficha de la startup:** https://docs.google.com/forms/d/e/1FAIpQLSc14E44nPX4RdupclVU_0ppyNx42DU5UnlTSEMzeBS5nsIrwQ/viewform. Con ella la startup aparece en el directorio y entra al match de parejas.
+
+Si alguien hizo solo uno de los dos pasos, recuérdale el otro.
 
 - Una startup recién inscrita no aparece al instante: la organización revisa cada ficha a mano antes de publicarla. Si alguien no encuentra su startup, explícale eso, y si ya pasó harto tiempo, que escriba a la organización. La revisión no decide quién participa: sirve para que ningún dato de contacto quede público y para evitar contenido malicioso.
 
