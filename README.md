@@ -4,7 +4,10 @@ La **Integrathon** es un evento de startups de salud en el marco de la Chile Tec
 
 Este repo es un skill de Claude con el kit para las startups que participan.
 
-**Fecha y lugar: por confirmar.** Fecha tentativa: 18 o 19 de noviembre de 2026. Lugar tentativo: Startuplab.01.
+- **Cuándo:** miércoles 18 de noviembre de 2026, de 9:30 a 13:30 hrs.
+- **Dónde:** Startup Chile, San Isidro 85, piso 9, Santiago.
+- **Página del evento:** [luma.com/spapvhk4](https://luma.com/spapvhk4)
+- **Cierre de inscripciones:** viernes 13 de noviembre de 2026.
 
 ## Startups inscritas
 
