@@ -44,6 +44,22 @@ git clone https://github.com/Speaknosis/integrathon-skill.git ~/.claude/skills/i
 
 Después pídele a Claude cosas como "ayúdame a preparar el pitch para la Integrathon" o "revisa la documentación de mi API para la Integrathon".
 
+## Usarlo con ChatGPT o Gemini
+
+El skill está en el formato de Claude, pero todo el contenido es Markdown, así que otras IA lo pueden usar.
+
+**Rápido: pásale el link del repo.** En un chat nuevo, con la navegación web activada, pega `https://github.com/Speaknosis/integrathon-skill` y pregunta, por ejemplo, "¿qué startups se han inscrito en la Integrathon?".
+
+**Completo: crea un GPT personalizado o un Gem.** Así la IA sigue todas las reglas del kit en cada conversación.
+
+1. Descarga el repo como ZIP (Code → Download ZIP) y descomprímelo.
+2. Crea un GPT personalizado en ChatGPT (*Explorar GPTs → Crear*) o un Gem en Gemini (*Gems → Nuevo Gem*).
+3. En las instrucciones, pega el contenido de `SKILL.md` desde la línea `# Integrathon · Kit para startups` en adelante.
+4. Sube como archivos de conocimiento los de `references/` y `templates/`.
+5. En un GPT, activa la navegación web para que pueda leer el directorio de inscritas.
+
+Las reglas del kit, como no entregar datos de contacto, son instrucciones para la IA. Los datos de contacto igual nunca están en el directorio, así que ninguna IA los puede sacar de ahí.
+
 ## Contacto
 
 Dudas sobre el evento, la inscripción o el contacto con otra startup: integrathon2026@speaknosis.com
