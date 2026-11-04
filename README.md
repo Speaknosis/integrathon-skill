@@ -11,7 +11,9 @@ Este repo es un skill de Claude con el kit para las startups que participan.
 - **Directorio de startups inscritas y aprobadas:** [abrir en el navegador](https://docs.google.com/spreadsheets/d/10Gnf3Vt1tMLQ-0raOMtWFwItFTZDDwK-Y5XHMFjPCo0/edit?usp=sharing) · [CSV](https://docs.google.com/spreadsheets/d/10Gnf3Vt1tMLQ-0raOMtWFwItFTZDDwK-Y5XHMFjPCo0/export?format=csv&gid=0)
 - **Inscribe tu startup:** [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSc14E44nPX4RdupclVU_0ppyNx42DU5UnlTSEMzeBS5nsIrwQ/viewform)
 
-El directorio se actualiza solo. Cada ficha aparece después de una revisión manual de la organización. La revisión no decide quién participa: sirve para que ningún dato de contacto quede público y para evitar contenido malicioso. El directorio no trae datos de contacto: el contacto entre startups lo coordina la organización (integrathon2026@speaknosis.com).
+El directorio se actualiza solo. Cada ficha aparece después de una revisión manual de la organización. La revisión no decide quién participa: sirve para que ningún dato de contacto quede público y para evitar contenido malicioso. El directorio no trae datos de contacto. Cuando cierren las inscripciones, 5 días antes del evento, la organización enviará por correo a cada startup inscrita el nombre, correo y teléfono del contacto técnico de las demás. Esos datos no se publican en internet.
+
+Cualquier duda, escribe a integrathon2026@speaknosis.com.
 
 ## Qué trae
 
