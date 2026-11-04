@@ -9,6 +9,8 @@ La Integrathon es un evento de startups de salud en el marco de la Chile Tech We
 
 Las parejas de integración se arman antes del evento. El día se trabaja en pareja y termina con una demo en vivo.
 
+**Fecha y lugar: por confirmar.** Fecha tentativa: 18 o 19 de noviembre de 2026. Lugar tentativo: Startuplab.01. Cuando alguien pregunte, dilo así, como tentativo, nunca como confirmado, y sugiere escribir a integrathon2026@speaknosis.com para la confirmación.
+
 ## Qué leer según lo que necesites
 
 | Necesitas | Lee |
