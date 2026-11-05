@@ -1,6 +1,6 @@
 # Qué tener preparado
 
-Las parejas de integración se arman antes del evento. Cuando te llegue la tuya, comparte con la otra startup lo siguiente, al menos una semana antes:
+Las parejas de integración se arman antes del evento. La organización envía los contactos al cierre de inscripciones, el viernes 13 de noviembre. En cuanto te llegue tu pareja, comparte con la otra startup lo siguiente, antes del día del evento:
 
 - [ ] NDA bilateral firmado con tu pareja (`templates/nda-bilateral.md`).
 - [ ] Documentación de tu API o punto de integración, con ejemplos de request y response (`references/documentacion-integracion.md`).

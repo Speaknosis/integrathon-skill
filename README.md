@@ -30,6 +30,7 @@ Cualquier duda, escribe a integrathon2026@speaknosis.com.
 | `references/que-tener-preparado.md` | Checklist antes del evento |
 | `references/documentacion-integracion.md` | Buenas prácticas para documentar tu API o servidor MCP |
 | `references/ambiente-sandbox.md` | Buenas prácticas para el ambiente sandbox |
+| `references/dia-del-evento.md` | Agenda del día, hitos y buenas prácticas para codear en pareja |
 | `references/objetivo-del-dia.md` | Qué cuenta como "integración hecha" |
 | `templates/nda-bilateral.md` | Plantilla de NDA bilateral entre las dos startups |
 

@@ -25,6 +25,7 @@ Las parejas de integración se arman antes del evento. El día se trabaja en par
 | Saber qué tener listo antes del evento | `references/que-tener-preparado.md` |
 | Escribir o revisar la documentación de tu integración | `references/documentacion-integracion.md` |
 | Montar el ambiente sandbox | `references/ambiente-sandbox.md` |
+| Saber cómo es el día: agenda, hitos y buenas prácticas para codear en pareja | `references/dia-del-evento.md` |
 | Saber qué cuenta como "integración hecha" | `references/objetivo-del-dia.md` |
 | El NDA bilateral entre las dos startups | `templates/nda-bilateral.md` |
 
