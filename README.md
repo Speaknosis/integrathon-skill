@@ -16,7 +16,7 @@ Este repo es un skill de Claude con el kit para las startups que participan.
   1. Inscríbete al evento en [Luma](https://luma.com/spapvhk4): confirma tu asistencia y te llegan los recordatorios.
   2. Completa la [ficha de tu startup](https://docs.google.com/forms/d/e/1FAIpQLSc14E44nPX4RdupclVU_0ppyNx42DU5UnlTSEMzeBS5nsIrwQ/viewform): con ella apareces en el directorio y entras al match de parejas.
 
-El directorio se actualiza solo. Cada ficha aparece después de una revisión manual de la organización. La revisión no decide quién participa: sirve para que ningún dato de contacto quede público y para evitar contenido malicioso. El directorio no trae datos de contacto. Cuando cierren las inscripciones, 5 días antes del evento, la organización enviará por correo a cada startup inscrita el nombre, correo y teléfono del contacto técnico de las demás. Esos datos no se publican en internet.
+El directorio se actualiza solo. Cada ficha aparece después de una revisión manual de la organización. La revisión no decide quién participa: sirve para que ningún dato de contacto quede público y para evitar contenido malicioso. El directorio no trae datos de contacto. Los contactos de las startups inscritas están en la [red de integraciones](references/red-de-integraciones.md): cualquier startup puede escribirle a cualquier otra.
 
 Cualquier duda, escribe a integrathon2026@speaknosis.com.
 
@@ -31,6 +31,7 @@ Cualquier duda, escribe a integrathon2026@speaknosis.com.
 | `references/documentacion-integracion.md` | Buenas prácticas para documentar tu API o servidor MCP |
 | `references/ambiente-sandbox.md` | Buenas prácticas para el ambiente sandbox |
 | `references/dia-del-evento.md` | Agenda del día, hitos y buenas prácticas para codear en pareja |
+| `references/red-de-integraciones.md` | Mapa de la red de integraciones y parejas propuestas ([PDF](references/mapa-integrathon-2026.pdf)) |
 | `references/objetivo-del-dia.md` | Qué cuenta como "integración hecha" |
 | `templates/nda-bilateral.md` | Plantilla de NDA bilateral entre las dos startups |
 
@@ -64,7 +65,7 @@ El skill está en el formato de Claude, pero todo el contenido es Markdown, así
 4. Sube como archivos de conocimiento los de `references/` y `templates/`.
 5. En un GPT, activa la navegación web para que pueda leer el directorio de inscritas.
 
-Las reglas del kit, como no entregar datos de contacto, son instrucciones para la IA. Los datos de contacto igual nunca están en el directorio, así que ninguna IA los puede sacar de ahí.
+Las reglas del kit, como no buscar datos de contacto fuera de la lista de inscritas, son instrucciones para la IA.
 
 ## Contacto
 
